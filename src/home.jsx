@@ -3,8 +3,8 @@ import { useMemo, useState } from 'react'
 
 const whiteIconUrl = new URL('./assets/white_icon.png', import.meta.url).href
 
-const DONATION_GOAL_AMOUNT = 1800000
-const DONATION_CURRENT_AMOUNT = 200000
+const DONATION_GOAL_AMOUNT = 2700000
+const DONATION_CURRENT_AMOUNT = 900000
 
 function Home() {
   const [currentDonationAmount] = useState(DONATION_CURRENT_AMOUNT)
@@ -167,7 +167,7 @@ function Home() {
             </h2>
 
             <ul className="donate-usage-list kr-text">
-              <li>자재비 : 1,500,000 ₩</li>
+              <li>자재비 : 2,200,000 ₩</li>
               <li>시험장 대여비 : 150,000 ₩</li>
               <li>이동비 및 잡화비 : 100,000 ₩</li>
               <li>Web 개발비 : 50,000 ₩</li>
