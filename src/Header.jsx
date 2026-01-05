@@ -56,7 +56,7 @@ const Footer = () => {
         <p>© 2025 ICAROS | All Rights Reserved</p>
         <p>
           Made by{' '}
-          <a href="https://aidengoldkr.netlify.app/" target="_blank" rel="noreferrer">
+          <a href="https://aidengoldkr.dev" target="_blank" rel="noreferrer">
             @aidengoldkr
           </a>
         </p>
