@@ -19,7 +19,7 @@ const Header = () => {
 
         <a
           className="nav-simulate nav-simulate-mobile"
-          href="https://simulate-icaros.netlify.app/"
+          href="https://sim.icaros.kr/"
         >
           Simulate
         </a>
